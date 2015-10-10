@@ -1,0 +1,11 @@
+Line 87: Class MSCommLib.MSComm of control MSComm1 was not a loaded control class.
+Line 90: The property name _ExtentX in MSComm1 is invalid.
+Line 91: The property name _ExtentY in MSComm1 is invalid.
+Line 92: The property name _Version in MSComm1 is invalid.
+Line 93: The property name CommPort in MSComm1 is invalid.
+Line 94: The property name DTREnable in MSComm1 is invalid.
+Line 95: The property name InBufferSize in MSComm1 is invalid.
+Line 96: The property name InputLen in MSComm1 is invalid.
+Line 97: The property name OutBufferSize in MSComm1 is invalid.
+Line 98: The property name ParityReplace in MSComm1 is invalid.
+Line 99: The property name RThreshold in MSComm1 is invalid.
